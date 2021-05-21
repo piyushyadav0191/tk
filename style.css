@@ -10,7 +10,7 @@ img{
 	height: 10rem;
 	width: 13rem;
 	border-radius: 50%;
-	position: absolute; visibility: visible; left: 4rem; top: 2rem; z-index: 200;
+	position: absolute; visibility: visible; left: 1rem; top: 2rem; z-index: 200;
 
 }
 .heading{
@@ -41,6 +41,6 @@ img{
 }
 @media(max-width:768px){
 	html{
-		font-size: 35%;
+		font-size: 30%;
 	}
 }
